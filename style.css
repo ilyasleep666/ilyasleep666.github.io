@@ -1,0 +1,57 @@
+html{
+    background-color: #BF8F30;
+}
+h1{
+    font-family: Black italic;
+    font-size: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0 70px;
+    font-size: 20px;
+}
+nav{
+    text-align: center;
+}
+.na4alo{
+    margin: 30px;
+    font-size: 40px;
+}
+.zal{
+    margin: 30px;
+    font-size: 30px;
+}
+.image1{
+    text-align: center; 
+}
+footer{
+    background-color: black;
+}
+.niz{
+    color:#BF8F30;
+    font-size: 25px;
+}
+.image2{
+    text-align: center;
+}
+.image3{
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+.array{
+    font-size: 25px;
+}
+.coach{
+    margin: 30px;
+    font-size: 40px;
+}
+.lyalya{
+    text-align: left;
+}
+.nizok{
+    color:#BF8F30;
+    font-size: 20px;
+}
